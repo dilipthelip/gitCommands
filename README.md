@@ -6,7 +6,7 @@
  
  If we want to stop ignoring the **.idea**  folder then add the below line in the **.gitignore** file .
  
-** .gitignore file:**  
+**.gitignore file:**  
 
 ```
 .idea/
