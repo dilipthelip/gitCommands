@@ -21,3 +21,11 @@ The below command will remove the folder from the git repo.
 ```
 git rm -r --cached .idea/
 ```
+
+**File :**
+
+If the file is already a part of the git repo then run the below command to remove it from the git repo.  
+
+```
+git rm --cached <file>
+```
