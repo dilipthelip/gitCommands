@@ -21,7 +21,7 @@ The below command will remove the folder from the git repo.
 ```
 git rm -r --cached <folder>
 ```
-For Example : To remove the .idea folder run the below command.  
+For Example : To remove the **.idea** folder run the below command.  
 
 ```
 git rm -r --cached .idea/
