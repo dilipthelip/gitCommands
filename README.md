@@ -34,3 +34,12 @@ If the file is already a part of the git repo then run the below command to remo
 ```
 git rm --cached <file>
 ```
+
+## How to remove untracked files ?
+
+Folder:    
+This will delete the untracked folder.  
+
+```
+git clean -fd
+```
