@@ -43,3 +43,10 @@ This will delete the untracked folder.
 ```
 git clean -fd
 ```
+## How to  Unstage the staged files ?
+
+The below command will unstage the staged files. 
+
+```
+git reset HEAD
+```
