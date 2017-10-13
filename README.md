@@ -52,6 +52,48 @@ git clone <copied-link>
 
 - You have successfully cloned the repo. You can start working on that code.
 
+## How to create a branch in git?
+
+```
+git checkout -b <branch-Name>
+```
+
+## How to push the changes to git ?
+
+
+- Modify the code/file.
+
+- There are three steps to push the code to github.  
+  - add
+  - commit
+  - push
+
+
+- Follow the below commands.
+
+```
+git add .
+
+git commit -m '<change comments> '
+
+git push origin <branch-name>
+
+```
+
+## How to pull the changes from git ?
+
+```
+git pull origin <branch-name>
+```
+
+## How to merge changes from one branch to another branch?
+
+- Merging someother branch changes in to your branch.  
+```
+git merge <branch-name>
+```
+
+
 ## FORK:
 
 ### Steps to Fork and keep the forked repo in sync:
