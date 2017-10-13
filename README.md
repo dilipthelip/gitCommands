@@ -6,7 +6,7 @@ Follow the below link to create a new account in github.
 
 https://help.github.com/articles/signing-up-for-a-new-github-account/
 
-## How to creating/start using the new Repo?
+## How to create and start using the new Repo?
 
 ### How to create a Repository in GIT ?
 
