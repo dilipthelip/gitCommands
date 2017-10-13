@@ -6,7 +6,6 @@ Follow the below link to create a new account in github.
 
 https://help.github.com/articles/signing-up-for-a-new-github-account/
 
-
 ## How to creating/start using the new Repo?
 
 ### How to create a Repository in GIT ?
@@ -39,6 +38,19 @@ git push -u origin master
 
 ## How to start using the existing Repo?
 
+- Clone the repository
+- Click on the clone or download button.
+- Copy the link
+
+![](https://github.com/dilipthelip/gitCommands/blob/master/images/git-3.png)
+
+```
+git clone <copied-link>
+```
+
+![](https://github.com/dilipthelip/gitCommands/blob/master/images/git-4.png)
+
+- You have successfully cloned the repo. You can start working on that code.
 
 ## FORK:
 
