@@ -1,11 +1,41 @@
 # gitCommands
 
+In order to explore different commands in Git, you need to have a github account.  
+
+Follow the below link to create a new account in github.  
+
+https://help.github.com/articles/signing-up-for-a-new-github-account/
+
+
+## How to create a Repository in GIT ?
+
+- Click on the new repository link and create a repo in Git.
+
+## How to start using the new Repo?
+
+Step 1:  
+
+- Clone the new repo.
+
+```
+
+```
+
+## FORK:
+
+### Steps to Fork and keep the forked repo in sync:
+
+Follow this link for the steps that need to be followed.  
+
+https://help.github.com/articles/fork-a-repo/
+
+
 ## How to stop git tracking files/folder?  
- 
+
  For Example:  
- 
+
  If we want to stop ignoring the **.idea**  folder then add the below line in the **.gitignore** file .
- 
+
 **.gitignore file:**  
 
 ```
@@ -45,7 +75,7 @@ git clean -fd
 ```
 ## How to  Unstage the staged files ?
 
-The below command will unstage the staged files. 
+The below command will unstage the staged files.
 
 ```
 git reset HEAD
