@@ -11,6 +11,8 @@ https://help.github.com/articles/signing-up-for-a-new-github-account/
 
 - Click on the new repository link and create a repo in Git.
 
+![](https://github.com/dilipthelip/gitCommands/blob/master/images/git-1.png)
+
 ## How to start using the new Repo?
 
 Step 1:  
