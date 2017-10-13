@@ -7,21 +7,40 @@ Follow the below link to create a new account in github.
 https://help.github.com/articles/signing-up-for-a-new-github-account/
 
 
-## How to create a Repository in GIT ?
+
+
+## How to creating/start using the new Repo?
+
+### How to create a Repository in GIT ?
 
 - Click on the new repository link and create a repo in Git.
 
 ![](https://github.com/dilipthelip/gitCommands/blob/master/images/git-1.png)
 
-## How to start using the new Repo?
+- Click the **Create Repository** button.  
 
-Step 1:  
+- Once the repository is successfully created then the below page will be displayed.
 
-- Clone the new repo.
+![](https://github.com/dilipthelip/gitCommands/blob/master/images/git-2.png)
+
+### How to start using a Repository in GIT ?
+
+- Create a folder in your machine where you want to start using the new repository.
+
+- Follow the commands given below.
 
 ```
-
+echo "# abc" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/dilipSundar/abc.git
+git push -u origin master
 ```
+- Congratulations , by completing the above steps you have successfully completed the pushing the code from your local to remote.
+
+## How to start using the existing Repo?
+
 
 ## FORK:
 
