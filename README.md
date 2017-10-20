@@ -89,6 +89,7 @@ git pull origin <branch-name>
 ## How to merge changes from one branch to another branch?
 
 - Merging someother branch changes in to your branch.  
+
 ```
 git merge <branch-name>
 ```
