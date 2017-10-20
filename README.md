@@ -63,6 +63,12 @@ git checkout -b <branch-Name>
 
 - Modify the code/file.
 
+- Run the below command to check the changed file.  
+
+```
+git status
+```
+
 - There are three steps to push the code to github.  
   - add
   - commit
