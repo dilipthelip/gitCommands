@@ -160,3 +160,14 @@ The below command will unstage the staged files.
 ```
 git reset HEAD
 ```
+## How to  merge unrelated histories ?
+
+```
+fatal: refusing to merge unrelated histories
+```
+
+- To solve the above issue we need to run the below command
+```
+
+git pull origin <branchname> --allow-unrelated-histories
+```
