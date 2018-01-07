@@ -29,8 +29,8 @@ https://help.github.com/articles/signing-up-for-a-new-github-account/
 ```
 echo "# abc" >> README.md
 git init
-git add README.md
-git commit -m "first commit"
+ggit add .
+git commit -m '<change comments> '
 git remote add origin https://github.com/dilipSundar/abc.git
 git push -u origin master
 ```
